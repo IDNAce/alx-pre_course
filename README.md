@@ -1,2 +1,1 @@
-My first readme
-hello world
+I am a sofftware engineer
